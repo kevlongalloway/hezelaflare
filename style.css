@@ -3,7 +3,7 @@
 }
 body{
 	margin:0;
-	scroll-snap-type:y mandatory;
+	scroll-snap-type:y proximity;
 }
 .header{
 	background-color: #00C853;
