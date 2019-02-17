@@ -17,15 +17,15 @@ body{
 	scroll-snap-align:start;
 }
 .btn-green{
-	background-color: #00C853 !important;
+	background-color: #fff !important;
 	width:100%;
 	display:block;
 	height:33.333333%;
 	border-radius: unset !important;
-	 border-bottom: 1px solid green !important;
+	 border-bottom: 1px solid pink !important;
 }
 .btn-green:hover{
-	background-color: green !important;
+	background-color: #EC407A !important;
 }
 .btn-green img {
 	margin-top:1em;
