@@ -22,10 +22,10 @@ body{
 	display:block;
 	height:33.333333%;
 	border-radius: unset !important;
-	 border-bottom: 1px solid pink !important;
+	 border-bottom: 1px solid #D50000 !important;
 }
 .btn-green:hover{
-	background-color: #EC407A !important;
+	background-color: #D50000 !important;
 }
 .btn-green img {
 	margin-top:1em;
